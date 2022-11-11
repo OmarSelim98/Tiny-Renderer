@@ -154,7 +154,7 @@ int main()
 	//line03(0, 0, 40, 10, image, red);
 	//line03(0, 0, 10, 40, image, white);
 
-	/* Fourth ATTEMPT:*/
+	/* Fifth ATTEMPT:*/
 	line04(0, 0, 10, 40, image, white);
 
 	image.flip_vertically(); // set the origin at the left bottom corner of the image
